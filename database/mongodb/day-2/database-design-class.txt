@@ -1,0 +1,17 @@
+1.Design database for class programme
+
+users
+codechief
+attendance
+topics
+tasks
+company_drives
+mentors
+
+
+2. Find all the topics and tasks which are thought in the month of October
+3. Find all the company drives which appeared between 15 oct-2020 and 31-oct-2020
+4. Find all the company drives and students who are appeared for the placement.
+5. Find the number of problems solved by the user in codechief
+6. Find all the mentors with who has the mentee's count more than 15
+7. Find the number of users who are absent and task is not submitted  between 15 oct-2020 and 31-oct-2020
